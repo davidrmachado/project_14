@@ -1,3 +1,3 @@
 <!-- Docker To do List-->
 
-Projeto realizado durante o curso de desenvolvimento web da Trybe, tendo como objetivo criar uma imagem docker para a aplicação e configurar essa imagem.
+Projeto realizado durante o curso de desenvolvimento web da Trybe, tendo como objetivo criar e configurar uma imagem docker para uma aplicação exemplo.
